@@ -1,6 +1,6 @@
 # CIFAR10-K-Nearest-Neighbors
 
-A simple KNN classifier implementation with L2 distance metric.
+_A simple KNN classifier implementation with L2 distance metric._
 
 # Steps to run:
 
